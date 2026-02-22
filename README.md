@@ -2,7 +2,7 @@
 
 Python tool for sending and receiving Ducky Script-style payloads over open ports and replaying them via local UI automation.
 
-<img width="782" height="634" alt="Image" src="./ExampleImage.png" align="right" width="220" />
+<img alt="Image" src="./ExampleImage.png" align="right" width="420" />
 
 [![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](#)
